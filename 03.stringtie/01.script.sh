@@ -7,3 +7,4 @@
 #################################step2只需要运行一次，再运行step3
 # step 3
 python /share/home/caituo/software/stringtie-2.2.1.Linux_x86_64/prepDE.py -i new.txt -g ./output/gene_count_matrix.csv -t ./output/transcript_count_matrix.csv
+##################################new.txt格式见reference文件夹中new.txt样式
