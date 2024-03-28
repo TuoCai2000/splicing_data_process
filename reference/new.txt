@@ -1,0 +1,14 @@
+wt.LTHSC.rep1   /share/home/caituo/ptRNA/StringTie/wt.LTHSC.rep1.gtf
+wt.LTHSC.rep2   /share/home/caituo/ptRNA/StringTie/wt.LTHSC.rep2.gtf
+wt.MPP.rep1     /share/home/caituo/ptRNA/StringTie/wt.MPP.rep1.gtf
+wt.MPP.rep2     /share/home/caituo/ptRNA/StringTie/wt.MPP.rep2.gtf
+YR-Lib_KO-LT2   /share/home/caituo/ptRNA/StringTie/YR-Lib_KO-LT2.gtf
+wt.STHSC.rep2   /share/home/caituo/ptRNA/StringTie/wt.STHSC.rep2.gtf
+YR-Lib_KO-LT1   /share/home/caituo/ptRNA/StringTie/YR-Lib_KO-LT1.gtf
+YR-Lib_KO-ST1   /share/home/caituo/ptRNA/StringTie/YR-Lib_KO-ST1.gtf
+YR-Lib_KO-ST2   /share/home/caituo/ptRNA/StringTie/YR-Lib_KO-ST2.gtf
+YR-Lib_WT-LT1   /share/home/caituo/ptRNA/StringTie/YR-Lib_WT-LT1.gtf
+YR-Lib_WT-LT2   /share/home/caituo/ptRNA/StringTie/YR-Lib_WT-LT2.gtf
+YR-Lib_WT-ST2   /share/home/caituo/ptRNA/StringTie/YR-Lib_WT-ST2.gtf
+YR-Lib_WT-ST1   /share/home/caituo/ptRNA/StringTie/YR-Lib_WT-ST1.gtf
+wt.STHSC.rep1   /share/home/caituo/ptRNA/StringTie/wt.STHSC.rep1.gtf
